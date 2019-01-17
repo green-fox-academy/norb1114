@@ -4,7 +4,7 @@ public class codingHours {
         System.out.println("An attende is coding " + semesterCodingHours + " hours in a semester");
 
         float codingHours2 = 52 *17;
-        float percentage = semesterCodingHours / codingHours2;
-        System.out.println("percentage with 52 hours weekly " + percentage * 100 + "%");
+        float percentage =codingHours2 / semesterCodingHours;
+        System.out.println("avarage coding hours are " + percentage * 100 + "% of the attendants coding hours in a semester");
     }
 }
