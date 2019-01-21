@@ -15,7 +15,7 @@ public class DrawDiamond {
                 System.out.print(star);
             }
             k += 2;
-            f--;
+            f--
             System.out.println();
         }
         int kb = 4;
