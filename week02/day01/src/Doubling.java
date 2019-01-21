@@ -1,21 +1,19 @@
 public class Doubling {
 
+
     public static void main (String [] args) {
 
         int baseNum = 123;
-        doubling (baseNum);
-        System.out.println(baseNum);
 
+
+        System.out.println(doubling(baseNum));
     }
-    public static int doubling (int num) {
+    private static int doubling (int num) {
 
         num = num *2;
 
         return num;
-
     }
-
-
 }
 
 
