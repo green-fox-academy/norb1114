@@ -10,7 +10,9 @@ public class CountFromTo {
 
         if (a > b) {
         System.out.println("the 2nd number should be bigger");
-        } for (int i = a; i < b; i++) {
+        }
+
+        for (int i = a; i < b; i++) {
                 System.out.println(i);
             }
         }
