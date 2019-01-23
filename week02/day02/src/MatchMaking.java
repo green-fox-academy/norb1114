@@ -14,7 +14,7 @@ public class Matchmaking{
     }
     private static ArrayList <String> makigMatches(ArrayList<String> girls, ArrayList<String> boys) {
         ArrayList<String> matchMaker = new ArrayList<>() {
-            if 
+            if
         }
     }
 
