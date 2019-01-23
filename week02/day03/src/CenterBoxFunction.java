@@ -15,9 +15,9 @@ public class CenterBoxFunction {
 
         int size = 10;
 
-        boxDrawer (size, graphics);
+        drawBox (size, graphics);
     }
-    public static void boxDrawer(int size, Graphics graphics) {
+    public static void drawBox(int size, Graphics graphics) {
 
         for (int i = 0; i < 3; i++) {
 
