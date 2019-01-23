@@ -18,7 +18,7 @@ public class GoToCenter {
             for (int i = y; i < 3 ; i++) {
 
                 graphics.setColor(Color.blue);
-                graphics.drawLine(x, y + (i * 50), 160, 160);
+                graphics.drawLine(x, y + (i * 50), WIDTH / 2, HEIGHT / 2);
 
             }
         }
