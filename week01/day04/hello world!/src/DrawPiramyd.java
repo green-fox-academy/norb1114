@@ -1,7 +1,7 @@
 public class DrawPiramyd {
     public static void main(String[] args) {
 
-    String star = "*";
+    char star = '*';
     int k = 1;
     int f = 4;
 

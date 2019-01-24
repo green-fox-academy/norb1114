@@ -4,27 +4,23 @@ import java.awt.*;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
-public class RainbowBoxFunction {
+public class PurpleSteps {
     public static void mainDraw(Graphics graphics) {
-        // Create a square drawing function that takes 3 parameters:
-        // The square size, the fill color, graphics
-        // and draws a square of that size and color to the center of the canvas.
-        // Create a loop that fills the canvas with rainbow colored squares.
+        // Reproduce this:
+        // [https://github.com/green-fox-academy/teaching-materials/blob/master/workshop/drawing/purple-steps/r3.png]
 
-        int sqSize = 320 ;
+        int size = 10;
+        int x = 10;
+        int y = 10;
 
-        Color[] colors = {Color.MAGENTA, Color.blue, Color.green, Color.yellow, Color.orange, Color.red};
-        for (int i = 0; i < colors.length ; i++)  {
-            drawSingleCenteredSquare(sqSize -= 50, colors[i], graphics);
+        for (int i = 0; i < 22; i++) {
 
-        }
+            graphics.setColor(Color.MAGENTA);
+            graphics.fillRect(x+ size*i,y + size * i, size, size);
+
+            System.out.println();
     }
 
-
-    public static void drawSingleCenteredSquare ( int sqSize, Color clr, Graphics graphics) {
-
-        graphics.setColor(clr);
-        graphics.fillRect((WIDTH / 2) - (sqSize / 2), (HEIGHT / 2) - (sqSize / 2), sqSize,sqSize);
     }
 
     // Don't touch the code below
