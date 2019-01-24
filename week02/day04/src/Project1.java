@@ -7,10 +7,10 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
 public class Project1 {
     public static void mainDraw(Graphics graphics) {
 
-        int x = 20;
-        int y = 20;
+        int x = WIDTH / 16;
+        int y = HEIGHT / 16;
 
-        for (int i = 1; i < 16; i++) {
+        for (int i = 0; i < 16; i++) {
 
             graphics.setColor(Color.magenta);
             graphics.drawLine(x * i, 0, 320, y * i);
