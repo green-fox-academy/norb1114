@@ -2,20 +2,20 @@ public class DrawPiramyd {
     public static void main(String[] args) {
 
     char star = '*';
-    int k = 1;
-    int f = 4;
+    int numberOfStars = 1;
+    int numberOfSpaces = 4;
 
-        for (int i = 1; i < 5; i++) {
+        for (int i = 0; i < 4; i++) {
 
-            for (int t = 0; t < f; t++) {
+            for (int j = 0; j < numberOfSpaces; j++) {
                 System.out.print(" ");
             }
 
-            for (int j = 0; j < k; j++) {
+            for (int j = 0; j < numberOfStars; j++) {
                 System.out.print(star);
             }
-            k += 2;
-            f--;
+            numberOfStars += 2;
+            numberOfSpaces--;
             System.out.println();
         }
 
