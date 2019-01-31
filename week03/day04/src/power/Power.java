@@ -13,16 +13,16 @@ public class Power {
         System.out.println("give the base number: ");
         int base = scanner.nextInt();
         System.out.println("give the power number");
-        int n = scanner.nextInt();
+        int power = scanner.nextInt();
 
-        System.out.println(power(base,n));
+        System.out.println(powerN(base,power));
 
     }
-    public static int power(int base, int n){
-        if (n == 0) {
+    public static int powerN(int base, int power){
+        if (power == 0) {
             return 1;
         }else {
-            return power(base, n - 1) * base;
+            return powerN(base, power - 1) * base;
         }
     }
 
