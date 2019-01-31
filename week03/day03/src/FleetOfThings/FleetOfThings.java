@@ -25,6 +25,6 @@ public class FleetOfThings {
             fleet.add(thing4);
 
         System.out.println(fleet);
-        
+
     }
 }
