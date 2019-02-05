@@ -1,3 +1,5 @@
+package animal;
+
 import animal.Animal;
 
 public class AnimalConstructor {
