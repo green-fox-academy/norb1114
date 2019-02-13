@@ -19,6 +19,7 @@ public class Plant {
     }
 
     public void addWater(int waterAmount){
+
         this.currentWaterAmount += waterAbsorption*waterAmount;
     }
 
