@@ -1,3 +1,4 @@
+/*
 package aircraft;
 
 import java.util.ArrayList;
@@ -29,7 +30,7 @@ public class Carrier {
         for (Aircraft aircraft :
                 this.planes) {
             if (aircraft.isPriority) {
-                this.carrierAmmoStore = aircraft.refill(carrierAmmoStore);
+                this.carrierAmmoStore = aircraft.refill(this.carrierAmmoStore);
             }
         }
         for (Aircraft aircraft :
@@ -44,7 +45,7 @@ public class Carrier {
     public void fight(Carrier anotherCarrier) {
 
         for (Aircraft aircraft : this.planes) {
-            anotherCarrier.healtPoints -= aircraft.fight();
+            anotherCarrier.healtPoints -= aircraft.allDamage();
         }
         if (anotherCarrier.healtPoints <= 0) {
             anotherCarrier.healtPoints = 0;
@@ -60,21 +61,22 @@ public class Carrier {
         return totalDamage;
     }
 
-    public String getStatus() {
+    public void getStatus() {
 
         if (this.healtPoints <= 0) {
-            return ("it's dead Jim");
+            System.out.println("it's dead Jim");
         } else {
-            String status = "Hp: " + this.healtPoints + ", " + "Aircraft count: " +
+            System.out.println("Hp: " + this.healtPoints + ", " + "Aircraft count: " +
                     this.planes.size() + ", " + "Ammo storage: " + this.carrierAmmoStore + " " +
-                    "Total Damage: " + totalDamage() + System.lineSeparator();
+                    "Total Damage: " + totalDamage());
 
             for (Aircraft aircraft : this.planes) {
-                status += aircraft.getStatus() + System.lineSeparator();
+                System.out.println(aircraft.getStatus());
 
             }
-            return status;
+
         }
     }
 }
 
+*/

@@ -1,3 +1,4 @@
+/*
 package aircraft;
 
 public class Main {
@@ -10,9 +11,11 @@ public class Main {
         for (int i = 0; i < 5; i++) {
             carrier1.add(new F16());
         }
-        System.out.println(carrier1.getStatus());
+        carrier1.getStatus();
         carrier1.fill();
-        System.out.println(carrier1.getStatus());
+        System.out.println();
+        carrier1.getStatus();
 
     }
 }
+*/

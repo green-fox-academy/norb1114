@@ -24,11 +24,10 @@ public class Aircraft {
         }return remainingCarrierAmmo;
     }
 
-    public int fight (){
+    public void fight (){
 
-        allDamage = currentAmmoStore * baseDamage;
+        this.allDamage = this.maxAmmo * this.baseDamage;
         this.currentAmmoStore =0;
-        return this.allDamage;
     }
 
     public String  getStatus(){
