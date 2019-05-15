@@ -2,9 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba333f3d-dc14-4e6c-8872-f5be056e006e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/day02/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/bookshelf/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/bookshelf/BookShelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/bookshelf/HardCoverBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/bookshelf/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/bookshelf/PageNumberComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/bookshelf/PaperBackBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/charactercounter/CharacterCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/charactercounter/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/charactercounter2/Rainy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/countchar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/matrixreturned/NewMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day02/matrixrotation/MatrixRotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/.idea/bookshelf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/BookShelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/HardCoverBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/PageNumberComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookshelf/PaperBackBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/charactercounter/CharacterCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/charactercounter/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/charactercounter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/charactercounter2/Rainy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countchar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrixreturned/NewMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrixrotation/MatrixRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/out/production/day01/Exercise1/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/out/production/day01/exercise2/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/out/production/day01/exercise3/Exercise3.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../week06/day01/src/Exercise1/Exercise1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../week06/day01/src/exercise2/Exercise2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../week06/day01/src/exercise3/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/day02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week03/day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day02/aircraft/Aircraft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day02/aircraft/Aircraft.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day02/aircraft/Carrier.class" beforeDir="false" />
@@ -12,6 +64,8 @@
       <change beforePath="$PROJECT_DIR$/src/aircraft/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aircraft/Aircraft.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aircraft/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aircraft/Carrier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aircraft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aircraft/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,49 +76,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/charactercounter/CharacterCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/charactercounter/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#0#472#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/practice/Practice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2176">
-              <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4670#4671#0" expanded="true" />
-                <element signature="e#4694#4695#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/charactercounter2/Rainy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+            <state relative-caret-position="816">
+              <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -125,9 +141,9 @@
         <option value="$PROJECT_DIR$/src/bookshelf/PaperBackBook.java" />
         <option value="$PROJECT_DIR$/src/bookshelf/Book.java" />
         <option value="$PROJECT_DIR$/src/bookshelf/Main.java" />
-        <option value="$PROJECT_DIR$/src/charactercounter2/Rainy.java" />
         <option value="$PROJECT_DIR$/src/bookshelf/BookShelf.java" />
         <option value="$PROJECT_DIR$/src/practice/Practice.java" />
+        <option value="$PROJECT_DIR$/src/charactercounter2/Rainy.java" />
       </list>
     </option>
   </component>
@@ -144,6 +160,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,12 +174,34 @@
               <item name="day02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="day02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aircraft" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bookshelf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="charactercounter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="charactercounter2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,17 +337,19 @@
       <workItem from="1551180539797" duration="611000" />
       <workItem from="1551213077845" duration="1371000" />
       <workItem from="1551254764708" duration="1961000" />
+      <workItem from="1556870871707" duration="58000" />
+      <workItem from="1556871005220" duration="1756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118284000" />
+    <option name="totallyTimeSpent" value="120098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08698941" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -531,13 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/countchar.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aircraft/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -626,7 +661,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/charactercounter/CharacterCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
+        <state relative-caret-position="782">
           <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -634,16 +669,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/charactercounter2/Rainy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/charactercounter/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="17">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#472#0" expanded="true" />
@@ -653,13 +681,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/Practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2176">
+        <state relative-caret-position="529">
           <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#4670#4671#0" expanded="true" />
             <element signature="e#4694#4695#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/countchar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/charactercounter2/Rainy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
         </state>
       </provider>
     </entry>

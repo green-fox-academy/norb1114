@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7de262e8-b56a-4dae-8298-9d256555b858" name="Default Changelist" comment="" />
+    <list default="true" id="7de262e8-b56a-4dae-8298-9d256555b858" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/bookshelf/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/bookshelf/BookShelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/bookshelf/HardCoverBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/bookshelf/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/bookshelf/PageNumberComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/bookshelf/PaperBackBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/charactercounter/CharacterCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/charactercounter/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/charactercounter2/Rainy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/countchar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/matrixreturned/NewMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/matrixrotation/MatrixRotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/.idea/bookshelf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/BookShelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/HardCoverBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/PageNumberComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/bookshelf/PaperBackBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/charactercounter/CharacterCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/charactercounter/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/charactercounter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/charactercounter2/Rainy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/countchar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/matrixreturned/NewMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/matrixrotation/MatrixRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/src/practice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/out/production/day01/Exercise1/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/out/production/day01/exercise2/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/out/production/day01/exercise3/Exercise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/src/Exercise1/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/src/exercise2/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day01/src/exercise3/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week06/day02/day02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/out/production/day02/aircraft/Aircraft.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/out/production/day02/aircraft/Aircraft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/out/production/day02/aircraft/Carrier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/out/production/day02/aircraft/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/aircraft/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/aircraft/Aircraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/aircraft/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/aircraft/Carrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/aircraft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/aircraft/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,12 +147,27 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="w4d3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day03" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549489202688" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day04" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -182,16 +259,17 @@
       <workItem from="1549449370596" duration="13318000" />
       <workItem from="1549482166875" duration="4955000" />
       <workItem from="1549529279222" duration="180000" />
+      <workItem from="1556870931807" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18453000" />
+    <option name="totallyTimeSpent" value="18467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23035714" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22995462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

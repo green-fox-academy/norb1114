@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf0dbd4f-cf3e-4d6e-85a7-97173d047d63" name="Default Changelist" comment="">
+    <list default="true" id="c417f2d8-d349-49f9-b95b-4f428dd45954" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/Data.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/bookshelf/Book.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/bookshelf/BookShelf.class" afterDir="false" />
@@ -36,37 +36,29 @@
       <change afterPath="$PROJECT_DIR$/../../week04/day02/src/matrixreturned/NewMatrix.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../week04/day02/src/matrixrotation/MatrixRotation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../week04/day02/src/practice/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day01.2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day01.2/src/anagram/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day01.2/src/getIndex/GetIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day01.2/src/getIndex/GetIndexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/Exercise1/Exercise1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/exercise2/Exercise2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/exercise3/Exercise3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise3/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anagram/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getIndex/GetIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getIndex/GetIndexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/out/production/day01/Exercise1/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/out/production/day01/exercise2/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/out/production/day01/exercise3/Exercise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/Exercise1/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/exercise2/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/exercise3/Exercise3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day02/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day02/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day02/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day02/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day02/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day02/day02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise1/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise2/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise3/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise4/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise5/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise6/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise7/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise8/Exercise8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week03/day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week04/day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week04/day02/out/production/day02/aircraft/Aircraft.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/aircraft/Aircraft.class" afterDir="false" />
@@ -86,48 +78,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise1/Exercise1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercise2/Exercise2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exercise3/Exercise3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -138,37 +94,91 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Exercise1/Exercise1.java" />
-        <option value="$PROJECT_DIR$/src/exercise2/Exercise2.java" />
-        <option value="$PROJECT_DIR$/src/exercise3/Exercise3.java" />
+        <option value="$PROJECT_DIR$/src/getIndex/GetIndex.java" />
+        <option value="$PROJECT_DIR$/src/getIndex/GetIndexTest.java" />
+        <option value="$PROJECT_DIR$/src/anagram/Anagram.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-13" />
     <option name="width" value="664" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="day01.2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day01" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="day01.2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="day01" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="2" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day01.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day01.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day01.2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="day01.2" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557844719662" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day02" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557756025993" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day01" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="getIndex" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,78 +192,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise3">
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise1.Exercise1" />
-      <module name="day01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise2.Exercise2" />
-      <module name="day01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise3.Exercise3" />
-      <module name="day01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Exercise3" />
-        <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.Exercise1" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf0dbd4f-cf3e-4d6e-85a7-97173d047d63" name="Default Changelist" comment="" />
-      <created>1551106462976</created>
+      <changelist id="c417f2d8-d349-49f9-b95b-4f428dd45954" name="Default Changelist" comment="" />
+      <created>1557750888386</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551106462976</updated>
-      <workItem from="1551106465856" duration="4019000" />
-      <workItem from="1551128044755" duration="597000" />
-      <workItem from="1557825218058" duration="1951000" />
+      <updated>1557750888386</updated>
+      <workItem from="1557750892754" duration="4072000" />
+      <workItem from="1557821107286" duration="1270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6567000" />
+    <option name="totallyTimeSpent" value="5342000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12102874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -262,7 +223,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,51 +233,122 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Exercise1/Exercise1.java">
+    <entry file="file://$PROJECT_DIR$/../day01/src/exercise2/Exercise2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anagram/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getIndex/GetIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getIndex/GetIndexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise2/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise3/Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day01.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

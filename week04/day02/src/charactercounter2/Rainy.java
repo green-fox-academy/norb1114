@@ -50,12 +50,11 @@ public class Rainy{
 
         String mostRainyCity = "";
         int mostRainy = 0;
-        for (String city : rainyCities.keySet()) {
-            if(mostRainy < rainyCities.get(city)) {
+        for (String city : rainyCities.keySet())
+            if (mostRainy < rainyCities.get(city)) {
                 mostRainy = rainyCities.get(city);
                 mostRainyCity = city;
             }
-        }
 
         String isIt15 = "";
 
