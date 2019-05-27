@@ -2,81 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf0dbd4f-cf3e-4d6e-85a7-97173d047d63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/Data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/bookshelf/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/bookshelf/BookShelf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/bookshelf/HardCoverBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/bookshelf/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/bookshelf/PageNumberComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/bookshelf/PaperBackBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/charactercounter/CharacterCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/charactercounter/Data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/charactercounter2/Rainy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/countchar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/matrixreturned/NewMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/matrixrotation/MatrixRotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/Data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/.idea/bookshelf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/BookShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/HardCoverBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/PageNumberComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/bookshelf/PaperBackBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/charactercounter/CharacterCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/charactercounter/Data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/charactercounter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/charactercounter2/Rainy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/countchar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/matrixreturned/NewMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/matrixrotation/MatrixRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week04/day02/src/practice/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day01.2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day01.2/src/anagram/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day01.2/src/getIndex/GetIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day01.2/src/getIndex/GetIndexTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/Exercise1/Exercise1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/exercise2/Exercise2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/exercise3/Exercise3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise2/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise3/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/day02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise1/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise2/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise3/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise4/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise5/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise6/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise7/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02/src/exercise8/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01.2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01.2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01.2/day01.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/exercise1/Exercise1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/exercise2/Exercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/exercise3/Exercise3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/exercise4/Exercise4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/exercise5/Exercise5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/exercise6/Exercise6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/exercise7/Exercise7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day02/out/production/day02/exercise8/Exercise8.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week03/day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week03/day04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week04/day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day02/out/production/day02/aircraft/Aircraft.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02/out/production/day02/aircraft/Aircraft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day02/out/production/day02/aircraft/Carrier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day02/out/production/day02/aircraft/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day02/src/aircraft/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02/src/aircraft/Aircraft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day02/src/aircraft/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02/src/aircraft/Carrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week04/day02/src/aircraft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02/src/aircraft/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week04/day02/src/charactercounter2/Rainy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day02/src/charactercounter2/Rainy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week04/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day03/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week04/day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week04/day04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01.2/src/anagram/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day01.2/src/anagram/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01.2/src/getIndex/GetIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day01.2/src/getIndex/GetIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01.2/src/getIndex/GetIndexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day01.2/src/getIndex/GetIndexTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/day02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/day02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/exercise1/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/exercise1/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/exercise2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/exercise2/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/exercise3/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/exercise3/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/exercise4/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/exercise4/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/exercise5/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/exercise5/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/exercise6/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/exercise6/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/exercise7/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/exercise7/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/exercise8/Exercise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/exercise8/Exercise8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02/src/exercise9/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/src/exercise9/Exercise9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exercise1/Exercise1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="238">
               <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -102,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercise2/Exercise2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="170">
               <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -144,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-13" />
     <option name="width" value="664" />
     <option name="height" value="735" />
@@ -157,9 +117,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,17 +203,18 @@
       <workItem from="1551106465856" duration="4019000" />
       <workItem from="1551128044755" duration="597000" />
       <workItem from="1557825218058" duration="1951000" />
+      <workItem from="1557904023703" duration="2615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6567000" />
+    <option name="totallyTimeSpent" value="9182000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12102874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.056732222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,7 +251,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Exercise1/Exercise1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="238">
           <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -300,7 +261,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercise2/Exercise2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="170">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />

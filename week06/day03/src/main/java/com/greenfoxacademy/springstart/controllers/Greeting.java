@@ -1,10 +1,6 @@
-package controllers;
+package com.greenfoxacademy.springstart.controllers;
 
 public class Greeting {
-
-    public void setId(long id) {
-        this.id = id;
-    }
 
     private long id;
     private String content;
